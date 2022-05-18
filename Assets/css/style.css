@@ -1,0 +1,16 @@
+.repoSpan{
+    text-decoration: none;
+    color: skyblue;
+}
+.repoContainer{
+    color: #fff;
+    font-size: 8px;
+    
+}
+
+.portfolio-item{
+    transition: transform 350ms;
+}
+.portfolio-item:hover{
+    transform: translateY(-10px);
+}

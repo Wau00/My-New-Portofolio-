@@ -1,4 +1,4 @@
-# My-New-Portofolio
+# My-New-Portfolio
 
 # Description
 This website represents my progress from the past seven weeks while involved in UCB Full-Stack Developer Program. This website deploys the most important projects that have influenced my abilities in JavaScript, Node.js, and MVC Architecture. 
@@ -11,7 +11,7 @@ This website represents my progress from the past seven weeks while involved in 
 
 
 # Run and Usage
-Link to deployed project: https://wau00.github.io/Professional-Portafolio-01/
+Link to deployed project: [Open New-Portfolio](https://wau00.github.io/My-New-Portofolio-/) 
 As a user feel free to scroll down while populating animations using AOS. Enjoy the different animations while hover at any button or image, and explore the different projects I have worked on when clicking on the designated links. 
 
 # Webpage Preview
